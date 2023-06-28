@@ -1,4 +1,4 @@
-baseURL = 'https://PJ94.github.io/MonSiteSurGH/'
+baseURL = 'https://Git-PJ94.github.io/MonSiteSurGH/'
 languageCode = 'fr'
 title = 'My New Hugo Site'
 theme = 'PaperMod'
